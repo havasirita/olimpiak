@@ -1,2 +1,2 @@
 # olimpiak
-##2.git óra
+## 2.git óra
