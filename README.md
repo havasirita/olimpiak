@@ -1,3 +1,5 @@
-# olimpiak
+# olimpiak weblap
 ## GitHub proba
-### ez meg mi - egy új sor
+## készítő: Havasi Rita
+## 9.A csop1
+
