@@ -2,4 +2,4 @@
 ## GitHub proba
 ## készítő: Havasi Rita
 ## 9.A csop1
-## bejelentkezes:hermanutz balazs
+## bejelentkezes:Hermanutz Balazs
