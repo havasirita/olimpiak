@@ -21,13 +21,13 @@ h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 150%;
     font-style: italic;
-    text-align: justify;    /*dőlt betűs*/
-    margin: 20px 100px 20px 100px;       /*fölső, jobb, alsó, bal*/
-    /* font-variant: small-caps;           kiskapitális */
-    line-height: 150%;           /*sorok magassága*/
+    text-align: justify;    dőlt betűs
+    margin: 20px 100px 20px 100px;       fölső, jobb, alsó, bal
+    font-variant: small-caps;           kiskapitális 
+    line-height: 150%;           sorok magassága
     /* text-transform: capitalize; minden szó első betűje nagybetűs*/
-    /* text-transform: lowercase;  minden kisbetűvel */
-    text-transform: uppercase;  /*csupa nagybetűs*/
+    /* text-transform: lowercase;  minden kisbetűvel 
+    text-transform: uppercase;  csupa nagybetűs
 
 } */
 
