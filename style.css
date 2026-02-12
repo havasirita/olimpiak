@@ -1,6 +1,4 @@
-p{
-    color: rgb(24, 24, 93);
-}
+
 body{
    color:aliceblue;
     /* background-image: url(zaszlo.jpg);
@@ -14,8 +12,12 @@ h1{
     color: rgb(255,0,0);
     text-align: center;
 }
+h2{
+    color:rgb(37, 37, 184);
+    font-weight: bold;
+}
 
-#okori{
+/* #okori{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 150%;
     font-style: italic;
@@ -27,8 +29,24 @@ h1{
     /* text-transform: lowercase;  minden kisbetűvel */
     text-transform: uppercase;  /*csupa nagybetűs*/
 
-}
+} */
 
 #NOB{
     text-decoration:underline;
+}
+
+li{
+    color: rgb(37, 37, 184);
+    list-style-image: url("logo.png");
+    list-style-position:outside;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: rgb(24, 24, 93);
+    line-height: 1.5;
+    margin: 20px 100px 20px 100px;
+    background-color: antiquewhite;
+    text-indent: 20px;
+    
 }
