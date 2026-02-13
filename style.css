@@ -36,17 +36,31 @@ h2{
 }
 
 li{
-    color: rgb(37, 37, 184);
+    color: rgb(24, 24, 93);
     list-style-image: url("logo.png");
-    list-style-position:outside;
+    
 }
 p{
     font-family: 'Times New Roman', Times, serif;
-    text-align: justify;
+    /* text-align: justify; */
     color: rgb(24, 24, 93);
     line-height: 1.5;
     margin: 20px 100px 20px 100px;
     background-color: antiquewhite;
-    text-indent: 20px;
+    text-indent: 20px;   /*első sor behúzása*/
     
+}
+#bejarat{
+    height: 200px;
+    float:right;
+    border: 5px solid rgb(216, 20, 241);
+    padding: 8px;
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+    margin-left: 20px;
+    /* margin-right: 20px; */
+
+}
+.bekezdes{
+    text-transform: uppercase;
 }
